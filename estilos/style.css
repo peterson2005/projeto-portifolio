@@ -24,7 +24,7 @@
   --texto: #222222;
   --texto-inverso: #ffffff;
   --destaque: #0077ff;
-  --destaque-inverso: 66bbff;
+  --destaque-inverso: #66bbff;
   --fundo-card: #ffffff;
 }
 
@@ -63,4 +63,13 @@ nav#menu a {
 nav#menu a:hover {
   background-color: var(--destaque-inverso);
   color: var(--destaque);
+}
+
+
+main `{
+
+}
+
+section#ficha {
+  
 }
